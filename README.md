@@ -3,7 +3,7 @@ I m a JAVASCRIPT ENJOYER YAY
 
 From `6 February 2024`:
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaitreGEEK&theme=dark)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaitreGEEK&theme=tokyonight)
 
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaitreGEEK&show_icons=true&theme=transparent)
